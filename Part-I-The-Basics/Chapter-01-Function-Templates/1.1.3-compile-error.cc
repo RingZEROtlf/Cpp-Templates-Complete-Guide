@@ -1,4 +1,4 @@
-#include "../../basics/max1.hpp"
+#include "basics/max1.hpp"
 #include <complex>
 
 int main()
